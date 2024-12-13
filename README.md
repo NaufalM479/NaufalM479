@@ -1,7 +1,7 @@
 # (README UNDER CONSTRUCTION) (README UNDER CONSTRUCTION) (README UNDER CONSTRUCTION) 
 
 # 💫 About Me:
-🇮🇩 Indonesian<br>📑 Taking my undergrad at Universitas Gadjah Mada, Indonesia<br>⚡️ Electronics and Instrumentation, Department of Computer Science and Electronic<br>🧑‍💻 ex Hardware programmer @gamaforce and @ERC<br>🚁 Currently Learning Robotics, UAVs Development, and Artificial intelligence<br>💡 Fun Fact: Architect used to be my dream job
+🇮🇩 Indonesian<br>📑 Taking my undergrad at Universitas Gadjah Mada, Indonesia<br>⚡️ Electronics and Instrumentation, Department of Computer Science and Electronic<br>🧑‍💻 ex Hardware programmer @gamaforce and @ERC<br>🚁 Currently Learning Robotics, and Artificial intelligence<br>💡 Fun Fact: Architect used to be my dream job
 
 
 ## 🌐 Socials:
