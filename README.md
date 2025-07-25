@@ -32,12 +32,16 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NaufalM479&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalM479&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<!---
+[//]: ### ✍️ Random Quote
+[//]: ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=NaufalM479&icon=2&color=4)](https://visitcount.itsvg.in)
 <br/> <br/>
+--->
+
+---
 # I USE ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) BTW
 
 <!-- credits: https://gprm.itsvg.in -->
