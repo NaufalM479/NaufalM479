@@ -1,7 +1,7 @@
 # HI! 
 
 # 💫 About Me:
-🇮🇩 Indonesian<br>📑 Taking my undergrad at Universitas Gadjah Mada, Indonesia<br>⚡️ Electronics and Instrumentation, Department of Computer Science and Electronic<br>🧑‍💻 ex Hardware programmer @gamaforce and @ERC<br>🚁 Robotics, UAV Data Communication, Artificial intelligence, Autonomous Cars <br>🖌️ learning illustration drawing  
+📑 Undergrad at Universitas Gadjah Mada, Indonesia<br>⚡️ Electronics and Instrumentation, Department of Computer Science and Electronics<br>🚁 Robotics, UAV Data Communication, Artificial intelligence, Autonomous Cars  
 
 
 ## 🌐 Socials:
